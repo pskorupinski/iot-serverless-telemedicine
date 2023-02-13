@@ -1,4 +1,4 @@
-# IoT Serverless Telemedicine (2019 talk)
+# IoT Serverless Telemedicine (2018 talk)
 
 On April 2018, I gave a talk on a Barcelona Software Architecture Meetup about application of IoT and Serverless technologies in telemedicine applications called "How IoT & Serverless Power up Telemedicine".
 
